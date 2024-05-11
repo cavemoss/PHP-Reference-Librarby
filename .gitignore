@@ -1,0 +1,4 @@
+xampp/*
+!xampp/htdocs
+xampp/htdocs/*
+!xampp/htdocs/php-ref

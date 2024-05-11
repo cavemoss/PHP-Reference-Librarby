@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+header h2 {
+    display: inline-block;
+    margin: 10px;
+}
+footer {
+    padding-bottom: 20px;
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    transform: translateY(-100%);
+}
